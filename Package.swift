@@ -14,7 +14,7 @@ let package = Package(
     targets: [
         .target(
             name: "JTAppleCalendar",
-            path: "Sources",
-            dependencies: [])
+            dependencies: [],
+            path: "Sources")
     ]
 )
